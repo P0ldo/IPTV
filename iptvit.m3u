@@ -158,11 +158,11 @@ https://liveac915sp.b-cdn.net/channel09/chunks.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="MediasetExtra.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/mediasetextra.png"tvg-chno="55"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Mediaset Extra
+#EXTINF:-1 tvg-id="MediasetExtra.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/mediaset-extra.png"tvg-chno="55"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Mediaset Extra
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="HGTV.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/homegardentv.png"tvg-chno="56"group-title="Discovery":http-user-agent="",HGTV - Home&Garden
+#EXTINF:-1 tvg-id="HGTV.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/hg-homegardentv.png"tvg-chno="56"group-title="Discovery":http-user-agent="",HGTV - Home&Garden
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/raiscuola.png"tvg-chno="57"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Scuola
@@ -188,7 +188,7 @@ https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="ilSole24ORE"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/ilsole24ore.png"tvg-chno="63"group-title="Altro":http-user-agent="",Il Sole24ORE TV
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 
-#EXTINF:-1 tvg-id="SuperTennis.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/supertennis.png"tvg-chno="64"group-title="Altro":http-user-agent="",Supertennis
+#EXTINF:-1 tvg-id="SuperTennis.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/supertennishd.png"tvg-chno="64"group-title="Altro":http-user-agent="",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="",ALMA TV
