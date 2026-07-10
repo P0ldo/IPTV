@@ -151,7 +151,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="DMAX.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/dmax.png"tvg-chno="52"group-title="Discovery":http-user-agent="HbbTV/1.6.1",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="casaitalia53.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/casaitalia53.png"tvg-chno="53"group-title="Regionale":http-user-agent="",Italia53
+#EXTINF:-1 tvg-id="CasaItalia53.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/casaitalia53.png"tvg-chno="53"group-title="Regionale":http-user-agent="",CasaItalia53
 https://liveac915sp.b-cdn.net/channel09/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RaiStoria.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/raistoria.png"tvg-chno="54"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Storia
@@ -280,3 +280,15 @@ https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
 
 #EXTINF:-1 tvg-id="RadioTvSerieA.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/radiotvseriea.png"tvg-chno="899"group-title="Radio":http-user-agent="",Radio TV Serie A 
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+
+#EXTINF:-1 tvg-id="SonyONE"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/sony1.png"tvg-chno="1001"group-title="Sat":http-user-agent="",SonyONE Gli Imperdibili
+https://15bd51164d444cf0b03f472a0b40381b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-826-IT-SONYONEPOPOLARI-LG_IT/e9531feb-22c9-495f-975f-7debb3760811/2.m3u8
+
+#EXTINF:-1 tvg-id="SonyONE"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/sony1.png"tvg-chno="1002"group-title="Sat":http-user-agent="",SonyONE Serie da Ridere
+https://5ee04aace69647d9beda78401dc4c0ee.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-825-IT-SONYONESERIEDARIDERE-LG_IT/63dea755-7c89-41fd-9ef3-05ec13151302/2.m3u8
+
+#EXTINF:-1 tvg-id="SonyONE"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/sony1.png"tvg-chno="1004"group-title="Sat":http-user-agent="",SonyONE Film Divertenti
+https://076507c6230e400ebcce99e452f12b7f.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-824-IT-SONYONEFILMDIVERTENTI-LG_IT/1c55c3cf-0ff7-4728-ae67-24bcb66cf236/0.m3u8
+
+#EXTINF:-1 tvg-id="SonyONE"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/TVL/sony1.png"tvg-chno="1005"group-title="Sat":http-user-agent="",SonyONE Film D'Azione
+https://a28a692c016c4af79ab371df5054a0be.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-823-IT-SONYONEFILMDAZIONE-LG_IT/0df38244-d3e3-4178-b9c8-553ce2e90a42/2.m3u8
