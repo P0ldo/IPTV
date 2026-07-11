@@ -92,4 +92,4 @@
 [1022] SonyOne Serie da Ridere<br>
 [1024] SonyOne Film Divertenti<br>
 [1025] SonyOne Film D'azione<br><br>
-<b>Note: 1) Purtroppo alcuni link potrebbero diventare non funzionanti<br>2) Ho deciso di inserire a partire dalla numerazione sopra il 1000, alcuni canali satellitari e/o presenti su specifiche smart tv o app</b>
+<b>Note: 1) Purtroppo alcuni link potrebbero diventare non funzionanti<br>2) A partire dalla numerazione sopra il 1000, sono presenti alcuni canali satellitari e/o presenti su specifiche smart tv o app</b>
