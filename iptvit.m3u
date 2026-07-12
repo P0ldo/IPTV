@@ -25,7 +25,7 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="http-user-agent=HbbTV/1.6.1",NOVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 11; Android TV; Fire TV Build/LVY48F)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="Mediaset20.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/20mediaset.png"tvg-chno="20"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",20 Mediaset
@@ -71,7 +71,7 @@ https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="RealTime.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/realtime.png"tvg-chno="31"group-title="Discovery":http-user-agent="HbbTV/1.6.1"",Real Time
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1 (Linux; U; Android 11; Android TV; Fire TV Build/LVY48F)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="QVC.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/qvc.png"tvg-chno="32"group-title="Altro":http-user-agent="",QVC
@@ -154,7 +154,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="DMAX.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/dmax.png"tvg-chno="52"group-title="Discovery":http-user-agent="HbbTV/1.6.1",DMAX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Android TV; Fire TV Build/LVY48F)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="CasaItalia53.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/casaitalia53.png"tvg-chno="53"group-title="Regionale":http-user-agent="",CasaItalia53
