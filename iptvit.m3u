@@ -72,7 +72,8 @@ https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="RealTime.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/realtime.png"tvg-chno="31"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Real Time
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
 https://zappr.stream/clearkey/?url=https://pb-96zvdrcpxomf6.akamaized.net/index.m3u8&kid=64144d4fd45734f8b196d157a983aa51&key=e6e0b229e3eb3b180b5a95bb799d8fae
 
 #EXTINF:-1 tvg-id="QVC.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/qvc.png"tvg-chno="32"group-title="Altro":http-user-agent="",QVC
