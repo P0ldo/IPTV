@@ -24,8 +24,10 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Tv8.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/tv8.png"tvg-chno="8"group-title="Sky":http-user-agent="",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="HbbTV/1.6.1",NOVE
-https%3A%2F%2Fpb-96zvdrcpxomf6.akamaized.net%2Findex.m3u8&kid=64144d4fd45734f8b196d157a983aa51&key=e6e0b229e3eb3b180b5a95bb799d8fae
+#EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="",NOVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ddbeebe1601da5a71e82c3eeeaaddf7b}
+https://zappr.stream/clearkey/?url=https%3A%2F%2Fpb-o0zu14lv7kvp9.akamaized.net%2Findex.m3u8&kid=68b6ba1e6373339b9b2e8ed930f7e3ee&key=ddbeebe1601da5a71e82c3eeeaaddf7b
 
 #EXTINF:-1 tvg-id="Mediaset20.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/20mediaset.png"tvg-chno="20"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -70,7 +72,9 @@ https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="RealTime.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/realtime.png"tvg-chno="31"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Real Time
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={e6e0b229e3eb3b180b5a95bb799d8fae}
+https://zappr.stream/clearkey/?url=https%3A%2F%2Fpb-96zvdrcpxomf6.akamaized.net%2Findex.m3u8&kid=64144d4fd45734f8b196d157a983aa51&key=e6e0b229e3eb3b180b5a95bb799d8fae
 
 #EXTINF:-1 tvg-id="QVC.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/qvc.png"tvg-chno="32"group-title="Altro":http-user-agent="",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
