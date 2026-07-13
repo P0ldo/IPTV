@@ -116,10 +116,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="-frisbee-.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/frisbee.png"tvg-chno="44"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Frisbee
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#EXTINF:-1 tvg-id="-frisbee-.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/frisbee.png"tvg-chno="44"group-title="Discovery":http-user-agent="",Frisbee
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={010036356507e020b45b2603e2814373:51029ecaaff8ef429fd8c41cc672cec0,010167cff5cc52576f396d1ec8827cfa:1a39558797b040f528032ecca74d6b3f,01020b636a6a1e0b812eef00f28e3538:26bba1b5e42cb88b793241d2d7119fb5,0103d507c94e1bf4d556011010deba71:12a125c9a43b489a0adb3b937f618057,01045825dc15605c4de3845c3059fbb4:f87037afaefca37df7c2d92de899b9ee,0105dbe971f59408ff7f3372ad87fd9e:3ef2b2e5958025ee4c2c0b678d982b09}
+https://api.zappr.stream/frisbee.mpd
 
 #EXTINF:-1 tvg-id="BoingPlus.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/boingplus.png"tvg-chno="45"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Boing Plus
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
