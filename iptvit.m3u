@@ -104,9 +104,9 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="K2.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/k2.png"tvg-chno="41"group-title="Discovery":http-user-agent="HbbTV/1.6.1",K2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={01004587127a0e454158b5e7392283d7:2db7dd74073a6f2a5d5444bbfbe157f2,0101c9838be12fc94f2e2bb4f6137488:351e58868f9609833180101e8fdcb4bb,0102e7882e14ba5223411d61580a2e70:48141c60c33b393b1cb894afbe296496,0103936b48b232229e90e0fe748a5127:40fede50a7c079885cc1f5aeb0611938,0104a90d8377c8397a16db6aea00255d:0182a7edbf2671485557922934cce375,010572e14f306c6bc9321cd6231457b8:45cae75a5d4073406ee2f524f837c6d4}
+https://api.zappr.stream/k2.mpd
 
 #EXTINF:-1 tvg-id="RaiGulp.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/raigulp.png"tvg-chno="42"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
