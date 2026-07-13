@@ -25,8 +25,8 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="",NOVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={68b6ba1e6373339b9b2e8ed930f7e3ee:ddbeebe1601da5a71e82c3eeeaaddf7b}
+#KODIPROP:inputstream.adaptive.license_type=https://zappr.stream/clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
 https://zappr.stream/clearkey/?url=https://pb-o0zu14lv7kvp9.akamaized.net/index.m3u8&kid=68b6ba1e6373339b9b2e8ed930f7e3ee&key=ddbeebe1601da5a71e82c3eeeaaddf7b
 
 #EXTINF:-1 tvg-id="Mediaset20.it"tvg-logo="https://raw.githubusercontent.com/P0ldo/IPTV/refs/heads/main/LOGHI/20mediaset.png"tvg-chno="20"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",20 Mediaset
